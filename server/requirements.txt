@@ -1,0 +1,12 @@
+fastai==2.0.10
+fastcore==1.0.9
+fastprogress==1.0.0
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+Flask==1.1.2
+Flask-RESTful==0.3.8
+Pillow==7.2.0
+simplejson==3.13.2
+gunicorn==19.0.0
+flask-cors
+ipython==7.16.1
+ipython-genutils==0.2.0

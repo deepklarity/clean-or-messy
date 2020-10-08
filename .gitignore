@@ -1,0 +1,7 @@
+*.pyc
+.ipynb_checkpoints
+trainer/dataset/
+
+server/venv
+.idea
+server/uploads

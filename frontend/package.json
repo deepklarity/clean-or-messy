@@ -1,0 +1,38 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=8.11.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "2.4.0",
+    "await": "^0.2.6",
+    "axios": "^0.20.0",
+    "react": "^16.13.1",
+    "react-cam": "^1.1.11",
+    "react-dom": "^16.13.1",
+    "react-html5-camera-photo": "^1.5.4",
+    "react-scripts": "^3.4.3",
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve -s build -p 8000",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

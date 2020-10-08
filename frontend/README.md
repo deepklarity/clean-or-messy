@@ -5,7 +5,7 @@
 * Taking an image in real-time and predict using TFJS model loaded in frontend itself.
 
 ## Blog post with more details:
-Building a Reactjs front-end to interact with a Machine Learning model
+[Building a Reactjs front-end to interact with a Machine Learning model](https://medium.com/deepklarity/building-a-reactjs-front-end-to-interact-with-a-machine-learning-model-104b4fc8904d)
 
 ![cleanvsmessy](/frontend/Demo.gif)
 

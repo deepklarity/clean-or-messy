@@ -1,7 +1,7 @@
 # Heroku Deployment
 Heroku PaaS was used to deploy these apps. <i>Heroku CLI</i> provides the option to directly push the repo aur app to heroku to be deployed. The OS in use is Ubuntu.
 ## Blog post with more details:
-Deploying ML Apps on Heroku
+[Deploying ML Apps on Heroku](https://medium.com/deepklarity/deploying-ml-apps-on-heroku-ee84f488173b)
 ## Installing Heroku CLI : 
 ```$ sudo snap install --classic heroku```
 

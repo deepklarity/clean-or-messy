@@ -5,7 +5,7 @@ Install the requirements to train a fastai and a keras model using:
 ```pip install -r requirements.txt```
 
 ### Blog
-blog here
+[Training an ML classifier model](https://medium.com/deepklarity/training-an-ml-classifier-model-fa346a51a31a)
 
 ### Jupyter notebooks for training a classifier.
 - [Train a classifier in fastai and export pickle](Training-Fastai-Classifier.ipynb)

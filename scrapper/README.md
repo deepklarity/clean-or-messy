@@ -1,8 +1,7 @@
 # Scrapper
 Scrapper is a python script to create a <i>ML/DL dataset using Selenium</i>. <i>Selenium</i> automates the web browser operations using <i>browser-drivers</i>. In this project we have used <i>Google Chrome</i> whose drivers can be found using [link](https://chromedriver.chromium.org/).
 ## Blog post with more details:
-Creating a Machine/Deep Learning Dataset from Google Images using Selenium
-
+[Creating a Machine/Deep Learning Dataset from Google Images using Selenium](https://medium.com/deepklarity/creating-a-machine-deep-learning-dataset-from-google-images-using-selenium-e9e8ed2f0520)
 ## Demo :
 ![cleanvsmessy](scraper.gif)
 

@@ -3,7 +3,7 @@
 API currently supports deploying a fastai model. Tensorflow or other models could be deployed with some minor modifications.
 
 ## Blog post with more details:
-blog post here
+[Building a REST API using Flask to deploy a Machine Learning Model on a back-end server](https://medium.com/deepklarity/building-a-rest-api-using-flask-to-deploy-a-machine-learning-model-on-a-back-end-server-a9645dbc8b6f)
 
 ![server](server.png)
 

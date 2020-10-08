@@ -2,7 +2,8 @@
 The project attempts to classify a given image as clean or messy. This is an exploratory project wherein we tried to explore various approaches for training and deploying a <i>Machine Learning based binary classification model</i> to be used by an end-user.
 
 ## Blog post with more details:
-Clean vs Messy Classifier.
+[Clean vs Messy Classifier](https://medium.com/deepklarity/clean-or-messy-classifier-f7d81757be27)
+
 
 ## Usage Instructions:
 We used the following approaches to deploy the project:
